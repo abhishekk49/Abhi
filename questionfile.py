@@ -19,3 +19,4 @@
 #50 legs
 
 #Create a python script to solve this problem.
+#This file was converted from .txt to .py
